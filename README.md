@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @henrybalagtas!
-- 🌱 I’m currently working on personal/passion projects.
-- 📫 How to reach me [henry.balagtas@gmail.com](henry.balagtas@gmail.com).
+- 🚀 I’m currently working on personal/passion projects.
+- 📫 How to reach me: henry.balagtas@gmail.com.
+- 👨‍💻 Linkedin: [link](www.linkedin.com/in/henry-balagtas)
 
 <!---
 henrybalagtas/henrybalagtas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
