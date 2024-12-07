@@ -1,3 +1,5 @@
+### About
+
 - 👋 Hi, I’m @henrybalagtas!
 - 🚀 I’m currently working on personal/passion projects.
 - 📫 How to reach me: henry.balagtas@gmail.com.
