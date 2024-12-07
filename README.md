@@ -1,4 +1,4 @@
-### About
+## About
 
 - 👋 Hi, I’m @henrybalagtas!
 - 🚀 I’m currently working on personal/passion projects.
