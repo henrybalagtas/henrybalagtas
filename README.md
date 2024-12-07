@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Henry!
 - 🚀 I’m currently working on personal/passion projects.
 - 📫 How to reach me: henry.balagtas@gmail.com.
-- 👨‍💻 [Linkedin](www.linkedin.com/in/henry-balagtas).
+- 👨‍💻 Follow my work: [Linkedin](www.linkedin.com/in/henry-balagtas).
 
 <p align="center"> 
   Visitors count<br>
